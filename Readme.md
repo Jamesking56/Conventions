@@ -1,4 +1,4 @@
-# Conventions [![Project Status](http://stillmaintained.com/Jamesking56/Conventions.png)](http://stillmaintained.com/Jamesking56/Conventions)
+# Conventions [![Project Status](http://stillmaintained.com/Jamesking56/Conventions.png)](http://stillmaintained.com/Jamesking56/Conventions) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Jamesking56/conventions/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 This repository is built for documentation only. It shows my programming best practices and coding conventions which I will adhere to in my own personal projects and freelance client based projects.
 
 Feel free to take a look through the Markdown formatted files and learn from my coding practices.
